@@ -4,7 +4,7 @@ using namespace std;
 
 int n,m,s1,s2,t1,t2;
 char a[505][505];
-int ok=1;
+int ok=0;
 
 int dx[4]={-1,0,0,1};
 int dy[4]={0,-1,1,0};
